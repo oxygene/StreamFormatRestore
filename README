@@ -1,0 +1,3 @@
+Save the format state of a std::ostream object and restore it later.
+
+Released to the PUBLIC DOMAIN by Christof Krüger.
